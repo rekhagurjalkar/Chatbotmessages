@@ -1,0 +1,27 @@
+[
+	{
+		"key":"default-ans",
+		"ans":"Sorry dear I dont know What I have to respond for you."
+	},
+	{
+		"key":"Hi",
+		"ans":"Hello Dear"
+	},
+	{
+		"key":"How are you",
+		"ans":"I am fine dear"
+	}
+	,
+	{
+		"key":"What are doing",
+		"ans":"I am just wating for your message dear that's all"
+	},
+	{
+		"key":"medicin.*fever",
+		"ans":"Oh dear are you suffering from fever, please consolt doctore as soon as posible for this instance i will give you a home remedy please drink hot water now onword and also have mint it very good for fever"
+	},
+	{
+		"key":"bye.*",
+		"ans":"Good bye Dear i will ready for you any time dont forget me ok"
+	}
+]
